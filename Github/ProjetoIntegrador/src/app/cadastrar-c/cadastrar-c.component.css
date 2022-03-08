@@ -1,0 +1,25 @@
+.forms {
+    display:grid;
+   max-width: 350px;
+   font: normal 14pt Arial;
+}
+.btm{
+    display: flex;
+    flex-direction: row;
+    margin: 5px 10px;
+}
+#sucss{
+    margin: 5px 10px;
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+}
+#exe{
+    margin: 5px 10px;
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+}
+body{
+    background-color: ghostwhite;
+}

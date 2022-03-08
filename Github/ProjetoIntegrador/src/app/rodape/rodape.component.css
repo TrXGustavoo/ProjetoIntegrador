@@ -1,0 +1,8 @@
+.card {
+    
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+    background-color: cornflowerblue;
+    height: 135px;
+}

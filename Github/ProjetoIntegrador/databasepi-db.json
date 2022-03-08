@@ -1,0 +1,25 @@
+{
+  "celulares": [
+    {
+      "id": 1,
+      "nome": "Iphone 13",
+      "foto": "foto1.jpg",
+      "descricao": " 128GB Tela de 5,4, Câmera Dupla de 12MP, Nova CPU de 6 núcleos(2 de desempenhoe 4 de eficiência)Nova GPU de 4 núcleosNovo Neural Engine de 16 núcleos",
+      "preco": 5600
+    },
+    {
+      "id": 2,
+      "nome": "MotoG10",
+      "foto": "foto2.jpg",
+      "descricao": "Processador Snapdragon 460 Octa Core, com 4 GB de RAM e 64 GB de armazenamento interno.tela HD+ de 6,5 polegadas, com resolução de 1600 x 720 pixels.",
+      "preco": 3000
+    },
+    {
+      "id": 3,
+      "nome": "Xiomo MI 10T",
+      "foto": "foto3.jpg",
+      "descricao": "Processador 5G Qualcomm Snapdragon 865 com GPU Qualcomm Adreno 650. Bateria de 5000mAh possui uma tela FHD+ de 6.67” com uma taza de atualização de tela 144Hz  ",
+      "preco": 3000
+    }
+  ]
+}

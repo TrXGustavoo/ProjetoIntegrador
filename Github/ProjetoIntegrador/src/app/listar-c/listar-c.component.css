@@ -1,0 +1,10 @@
+.listaC{
+    display: flex;
+    flex-direction: column;
+}
+
+.listaC .card{
+    margin: 5px 10px;
+    min-height: 700px;
+}
+

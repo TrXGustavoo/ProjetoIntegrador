@@ -1,0 +1,17 @@
+<section class="listaC">
+    <div *ngFor="let Celular of celulares">
+
+        <div class="card" style="width: 18rem;">
+            <img src="assets\img\celulares\{{Celular.foto}}" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Id do celular: {{Celular.id}}</h5>
+                <h5 class="card-title">Celular: {{Celular.nome}}</h5>
+                <p class="card-text">Descrição do celular: {{Celular.descricao}} </p>
+                <p class="card-text">Preço do celular: R$ {{Celular.preco}} </p>
+                <a href="#" class="btn btn-primary">Comprar</a>
+            </div>
+        </div>
+
+    </div>
+
+</section>

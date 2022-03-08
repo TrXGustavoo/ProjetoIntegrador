@@ -1,0 +1,9 @@
+.info{
+    display: flex;
+    flex-direction: row;
+}
+
+.info .card{
+    margin: 5px 200px;
+}
+
